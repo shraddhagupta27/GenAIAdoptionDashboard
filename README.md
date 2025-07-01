@@ -1,10 +1,10 @@
 # GenAIAdoptionDashboard
 
-# Global GenAI Adoption Dashboard (Excel)
+## Global GenAI Adoption Dashboard (Excel)
 
 This Excel-based dashboard project visualizes global trends in the adoption of Generative AI (GenAI) tools across countries and industries from 2022 to 2024.
 
-# Objective
+## Objective
 To analyze the business impact of GenAI tools by tracking:
 - Total employees impacted
 - New roles created
@@ -12,7 +12,7 @@ To analyze the business impact of GenAI tools by tracking:
 - Productivity change
 - Popularity of GenAI tools across regions and industries
 
-# Features
+## Features
 - Fully interactive dashboard with slicers for Country & Industry
 - Pivot tables and pivot charts for temporal and categorical analysis
 - KPI Tiles for high-level summaries:
@@ -21,7 +21,7 @@ To analyze the business impact of GenAI tools by tracking:
   - Productivity Growth
   - Training & Upskilling Trends
 
-# Tools Used
+## Tools Used
 - Microsoft Excel (Pivot Table, Pivot Chart, Slicers, KPI Tiles, Conditional Formatting)
 
 # Insights Uncovered
