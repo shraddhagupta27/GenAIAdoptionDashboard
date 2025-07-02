@@ -22,7 +22,7 @@ To analyze the business impact of GenAI tools by tracking:
   - Training & Upskilling Trends
 
 ## Tools Used
-- Microsoft Excel (Pivot Table, Pivot Chart, Slicers, KPI Tiles, Conditional Formatting)
+- Microsoft Excel 
 
 # Insights Uncovered
 - Top countries driving GenAI adoption (e.g., USA, Canada, UK)
